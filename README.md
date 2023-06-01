@@ -4,6 +4,12 @@
 
 ### 日本語の見出しを追加
 
+## 自己紹介
+
+### 自己紹介のファイル
+
+- add-self-introduction.md
+
 ## Preparation
 
 ### 1. Create a new repository on GitHub, for example, named `conflict-practice`
