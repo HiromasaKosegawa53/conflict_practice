@@ -1,5 +1,9 @@
 # To practice resolving conflicts with Git and GitHub using pull requests, follow these steps:
 
+## 日本語
+
+### 日本語の見出しを追加
+
 ## 自己紹介
 
 ### 自己紹介のファイル
